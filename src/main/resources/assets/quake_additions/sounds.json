@@ -1,0 +1,12 @@
+{
+    "plasma_gun_fire": {
+        "subtitle": "quake_additions:subtitle.plasma_gun.fire",
+        "category": "player",
+        "sounds": [
+            {
+                "name": "quake_additions:item/plasma_gun_fire",
+                "stream": true
+            }
+        ]
+    }
+}

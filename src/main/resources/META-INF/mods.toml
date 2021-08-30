@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+[[mods]]
+modId="quake_additions"
+version="${file.jarVersion}"
+displayName="Quake Additions"
+#logoFile="examplemod.png" #nyi
+#credits="Thanks for this example mod goes to Java"
+authors="TomaszJH"
+description='''
+Quake Additions mod aims to add features from Quake 3 Arena for multiplayer use
+'''
